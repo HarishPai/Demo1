@@ -1,0 +1,4 @@
+*.war
+*.class
+
+#ignore war amd class files
